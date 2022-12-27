@@ -3,7 +3,7 @@
 | Useful Links  |
 | ----------------- |
 [Assignement Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
-[Vercel Link - Desktop version](https://frontend-mentor-01-navy.vercel.app/)
+[Vercel Link - Desktop version](https://frontend-mentor-02.vercel.app/)
 
 ---
 
